@@ -1,13 +1,21 @@
-##Info	
+## Info	
+## Editing
+
+Operation | Command
+----------|--------
 Content Assist				| Ctrl + Space
 Context Information			| Ctrl + Shift + Space
 Quick type hierarchy		| Ctrl + T
 Show outline				| Ctrl + O
 	
 	
-##Navigation	
-Back	Ctrl + [
-Forward	Ctrl + ]
+## Navigation
+
+Operation | Command
+----------|--------
+
+Back						| Ctrl + [
+Forward						| Ctrl + ]
 Toggle folding / wrapping	Ctrl + 9 / Ctrl + 8
 Explore macro expansion	Ctrl + M
 Go to matching Bracket	Ctrl + F3
