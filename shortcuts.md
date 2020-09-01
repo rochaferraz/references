@@ -1,4 +1,12 @@
 ## Info	
+
+Operation | Command
+----------|--------
+Content Assist	Ctrl + Space
+Context Information	Ctrl + Shift + Space
+Quick type hierarchy	Ctrl + T
+Show outline	Ctrl + O
+
 ## Editing
 
 Operation | Command
