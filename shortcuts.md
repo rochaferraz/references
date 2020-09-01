@@ -13,30 +13,32 @@ Show outline				| Ctrl + O
 
 Operation | Command
 ----------|--------
-
-Back						| Ctrl + [
+Back						| Ctrl + \[
 Forward						| Ctrl + ]
-Toggle folding / wrapping	Ctrl + 9 / Ctrl + 8
-Explore macro expansion	Ctrl + M
-Go to matching Bracket	Ctrl + F3
-Next tab	Ctrl + pagedown / Ctrl + Shift + ]
-Previous tab	Ctrl + pageup / Ctrl + Shift + [
-Open Call Hierarchy	F4
-Open declaration	F3
-Open implementation	Shift + F3
-Open include browser	Ctrl + Alt + I
-Open resource / file	Ctrl + Shift + O
-Show Outline	F6
-Toggle Source/Header	Ctrl + Tab
-Zoom in	Ctrl + =
-Zoom out	Ctrl + -
-Open file	
-Show Project Browser	Ctrl + Shift + E
-Show Debug Interface	Ctrl + Shift + D
-Show Source Control	Ctrl2 + Shift + G
-Show Console	F7
+Toggle folding / wrapping	| Ctrl + 9 / Ctrl + 8
+Explore macro expansion		| Ctrl + M
+Go to matching Bracket		| Ctrl + F3
+Next tab					| Ctrl + pagedown / Ctrl + Shift + ]
+Previous tab				| Ctrl + pageup / Ctrl + Shift + \[
+Open Call Hierarchy			| F4
+Open declaration			| F3
+Open implementation			| Shift + F3
+Open include browser		| Ctrl + Alt + I
+Open resource / file		| Ctrl + Shift + O
+Show Outline				| F6
+Toggle Source/Header		| Ctrl + Tab
+Zoom in	Ctrl 				| + =
+Zoom out					| Ctrl + -
+Open file					| Ctrl + O
+Show Project Browser		| Ctrl + Shift + E
+Show Debug Interface		| Ctrl + Shift + D
+Show Source Control			| Ctrl2 + Shift + G
+Show Console				| F7
 	
-Editing	
+## Editing	
+
+Operation | Command
+----------|--------
 Delete to end of line	Ctrl + Delete
 Delete to start of line	Ctrl + Backspace
 Delete next word	Alt + Delete
@@ -55,7 +57,10 @@ Duplicate line	Ctrl + D
 Add cursor above	Ctrl + Alt + Up
 Add cursor below	Ctrl + Alt + Down
 	
-Options	
+## Options	
+
+Operation | Command
+----------|--------
 Preferences	Ctrl + ,
 File properties	Ctrl + Shift + ,
 Shortcuts	Ctrl + k, Ctrl + s
